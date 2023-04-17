@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    background: #232E22;
+    font-family: 'Trebuchet MS'
+}
+
+h1 {
+    color: whitesmoke;
+    margin-bottom: -15px;
+}
+
+h2 {
+    color: greenyellow;
+    margin-bottom: -10px;
+}
+
+h3 {
+    color: whitesmoke;
+    margin-bottom: 25px;
+}
+
+button {
+    background: #2FBD27;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+.line-1 {
+  height: 0.5px;
+  background: blanchedalmond;
+  margin-top: 25px;
+}
+
+.pass {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    color: wheat;
+
+}
+
+#pass1, #pass2 {
+    border: 1px solid wheat;
+    padding: 5px;
+    background: black;
+    color: greenyellow;
+    border: none;
+    border-radius: 5px;
+    
+}
